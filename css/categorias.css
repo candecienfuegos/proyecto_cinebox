@@ -1,0 +1,153 @@
+body{
+    background-color: #000000;
+}
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.container {
+   
+    background-color: #000000;
+    min-height: 100%;
+    color: white;
+    
+   
+    
+
+   
+  }
+  
+  .content-container {
+   margin:0
+   
+}
+   
+    
+  
+  
+  .featured-content {
+    height: 35vh;
+    padding: 50px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 1cm;
+    object-fit: cover;
+    & img{ object-fit: cover;}
+
+    
+  }
+  .featured-title {
+    width: 200px;
+  }
+  
+  .featured-desc {
+    width: 500px;
+    color: lightgray;
+    margin: 30px 0;
+    
+  }
+  
+  .featured-button {
+    
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline:none;
+    font-weight: bold;
+    
+  }
+  .container2 {
+   
+    background-color:#000000 ;
+    min-height: 100%;
+    color: white;
+   
+    
+
+   
+  }
+  
+  .content-container2 {
+   margin:0
+   
+    
+  }
+  
+  .featured-content2 {
+    height: 35vh;
+    padding: 50px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 1cm;
+
+    
+  }
+  .featured-title2 {
+    width: 200px;
+  }
+  
+  .featured-desc2 {
+    width: 500px;
+    color: lightgray;
+    margin: 30px 0;
+    
+  }
+  
+  .featured-button2 {
+    background-color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline:none;
+    font-weight: bold;
+  }
+
+  .container3 {
+   
+    background-color:#000000 ;
+    min-height: 100%;
+    color: white;
+   
+    
+
+   
+  }
+  
+  .content-container3 {
+   margin:0
+   
+    
+  }
+  
+  .featured-content3 {
+    height: 35vh;
+    padding: 50px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 1cm;
+    
+
+    
+  }
+  .featured-title3 {
+    width: 200px;
+  }
+  
+  .featured-desc3 {
+    width: 500px;
+    color: lightgray;
+    margin: 30px 0;
+    
+  }
+  
+  .featured-button3 {
+    background-color:blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline:none;
+    font-weight: bold;
+  }
