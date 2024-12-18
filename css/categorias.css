@@ -6,8 +6,6 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .container {
-   
-    background-color: #000000;
     min-height: 100%;
     color: white;
     
@@ -59,7 +57,7 @@ h1{
   }
   .container2 {
    
-    background-color:#000000 ;
+   
     min-height: 100%;
     color: white;
    
@@ -106,7 +104,7 @@ h1{
 
   .container3 {
    
-    background-color:#000000 ;
+
     min-height: 100%;
     color: white;
    
@@ -141,7 +139,7 @@ h1{
   }
   
   .featured-button3 {
-    background-color:blue;
+
     color: white;
     padding: 10px 20px;
     border-radius: 10px;
