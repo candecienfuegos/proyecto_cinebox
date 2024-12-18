@@ -27,8 +27,10 @@
 }
 
 @media (max-width: 767px) {
-    .btn-tarjeta {
+    .btn-ver-mas {
         width: 100%;
-        margin-left: 0;
+        margin-right: 0;
+        position: absolute;
+        bottom: 1;
     }
 }
