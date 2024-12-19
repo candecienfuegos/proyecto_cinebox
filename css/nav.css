@@ -1,0 +1,24 @@
+html {
+    scroll-padding-top: 100px;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar-brand{
+    & img{
+        height: 40px;
+        margin-right: 4px;
+    }
+}
+
+.active{
+    color: #ffffff8c !important;
+}
