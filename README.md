@@ -10,9 +10,9 @@
  - Bootstrap
 
 ## Integrantes:
-Cuellar, Facundo Ignacio
-Cienfuegos Veliz, Marina Candelaria
-Sosa, Luciano Julian
-Rodriguez Carrizo, Gonzalo
-Canelo, Magali
-Cordoba, Esteban Augusto
+- Cuellar, Facundo Ignacio
+- Cienfuegos Veliz, Marina Candelaria
+- Sosa, Luciano Julian
+- Rodriguez Carrizo, Gonzalo
+- Canelo, Magali
+- Cordoba, Esteban Augusto
