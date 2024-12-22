@@ -22,3 +22,10 @@ a{
     text-decoration: none;
     color: black;
 }
+
+@media (max-width: 767px) {
+    .btn-tarjeta {
+        width: 100%;
+        margin-left: 0;
+    }
+}
